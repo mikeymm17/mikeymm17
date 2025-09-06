@@ -5,6 +5,7 @@
 - <b>Setting up a honeypot on Kali Linux</b>
 - <b>Implementing Port Security</b>
 - <b>Simulating an Eavesdropping Attack</b>
+- <b>Active Directory Home Lab</b>
 
 <h2>📑Certifications </h2>
 Comptia Security+ 
