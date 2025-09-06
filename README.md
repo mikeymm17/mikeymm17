@@ -4,8 +4,8 @@
 
 - <b> [Setting up a honeypot on Kali Linux](https://github.com/mikeymm17/Setting-up-honeypot-in-Kali-Linux)</b>
 - <b>[Implementing Port Security](https://github.com/mikeymm17/Implementing-Port-Security)<b> 
-- <b>[Simulating an Eavesdropping Attac](https://github.com/mikeymm17/Simulating-Eavesdrop-Attack)</b>
-- <b>Active Directory Home Lab</b>
+- <b>[Simulating an Eavesdropping Attack](https://github.com/mikeymm17/Simulating-Eavesdrop-Attack)</b>
+- <b>[Active Directory Home Lab](https://github.com/mikeymm17/Active-Directory-Home-Lab)</b>
 
 <h2>📑Certifications </h2>
 Comptia Security+ 
