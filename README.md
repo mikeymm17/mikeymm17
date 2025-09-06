@@ -7,7 +7,7 @@
 
 <h2> Certifications </h2>
 Comptia Security+
-<h2>Project Library </h2>
+
 
 <h2> 🤳 Connect with me:</h2>
 
