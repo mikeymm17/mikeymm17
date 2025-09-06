@@ -6,8 +6,7 @@
 - <b>Implementing Port Security (AlgoExpert)</b>
 
 <h2> Certifications </h2>
-Comptia Security+
-
+Comptia Security+ 
 
 <h2> 🤳 Connect with me:</h2>
 
