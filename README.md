@@ -2,9 +2,9 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Setting up a honeypot on Kali Linux (AlgoExpert)</b>
-- <b>Implementing Port Security (AlgoExpert)</b>
-- <b>Simulating an Eavesdropping Attack (AlgoExpert)</b>
+- <b>Setting up a honeypot on Kali Linux</b>
+- <b>Implementing Port Security</b>
+- <b>Simulating an Eavesdropping Attack</b>
 
 <h2>📑Certifications </h2>
 Comptia Security+ 
