@@ -12,7 +12,7 @@ Comptia Security+
 <h2> 🤳 Connect with me:</h2>
 
 
-[<img align="left" alt="MikeMarkwei | LinkedIn" width="22px" src="https://www.linkedin.com/in/mike-m-655627119/" />][linkedin]
+[Connect with me on LinkedIn- Mike Markwei](https://www.linkedin.com/in/MikeMarkwei/)
 
 
 
