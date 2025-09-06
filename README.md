@@ -3,8 +3,8 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b> [Setting up a honeypot on Kali Linux](https://github.com/mikeymm17/Setting-up-honeypot-in-Kali-Linux)</b>
-- <b>Implementing Port Security</b>
-- <b>Simulating an Eavesdropping Attack</b>
+- <b>[Implementing Port Security](https://github.com/mikeymm17/Implementing-Port-Security)<b> 
+- <b>[Simulating an Eavesdropping Attac](https://github.com/mikeymm17/Simulating-Eavesdrop-Attack)</b>
 - <b>Active Directory Home Lab</b>
 
 <h2>📑Certifications </h2>
