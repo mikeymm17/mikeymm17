@@ -5,7 +5,7 @@
 - <b>Setting up a honeypot on Kali Linux (AlgoExpert)</b>
 - <b>Implementing Port Security (AlgoExpert)</b>
 
-<h2> Certifications </h2>
+<h2>📑Certifications </h2>
 Comptia Security+ 
 
 <h2> 🤳 Connect with me:</h2>
